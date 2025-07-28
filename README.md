@@ -29,8 +29,9 @@
 ---
 
 ### 📊 Estatísticas do GitHub:
-![Éric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBotelho&show_icons=true&theme=default)
+<img src="https://raw.githubusercontent.com/BssEric/BssEric/output/snake.svg" alt="Snake animation" />
 
+###
 ---
 
 💬 **“Criar é transformar ideias em impacto.”**
