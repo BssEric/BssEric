@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Como me encontrar:
-- Email: ericbotelho18@gmail.com*
-- LinkedIn:*Éric Botelho*
+- Email: *ericbotelho18@gmail.com*
+- LinkedIn:*[Éric Botelho](https://www.linkedin.com/in/%C3%A9ric-botelho-4055442b3/)*
 
 ---
 
