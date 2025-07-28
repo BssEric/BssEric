@@ -17,7 +17,7 @@
 
 ### 🧪 Projetos em destaque:
 - 🎮 **Dunk Game** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
-- 🐾 **FitLife** – Landing page sobre cuidados e cadastro de animais.
+- 🐾 **FitLife** – Landing page sobre artigos de academia.
 - 💡 Vários testes com **scroll effects**, **offcanvas menus**, **hero sections animadas** e muito mais.
 
 ---
