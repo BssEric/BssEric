@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Éric Botelho
 
 🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.  
-🚀 Atualmente trabalhando em projetos como **"Dunk Space"**, um jogo de basquete em HTML, e **"PetVerso"**, um site de mimos e cuidados para pets.  
-🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces estilo Rockstar Games (como no site do GTA6).  
+🚀 Atualmente trabalhando em projetos como **"Dunk Game"**, um jogo de basquete em HTML, e **"FitLife"**, um site para interessados em academia.  
+🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces modernas.  
 📚 Sempre aprendendo e experimentando com **HTML, CSS, JavaScript e Bootstrap**.  
 
 ---
@@ -16,15 +16,15 @@
 ---
 
 ### 🧪 Projetos em destaque:
-- 🎮 **Dunk Space** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
-- 🐾 **PetVerso** – Landing page sobre cuidados e cadastro de animais.
+- 🎮 **Dunk Game** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
+- 🐾 **FitLife** – Landing page sobre cuidados e cadastro de animais.
 - 💡 Vários testes com **scroll effects**, **offcanvas menus**, **hero sections animadas** e muito mais.
 
 ---
 
 ### 📫 Como me encontrar:
-- Email: seuemail@email.com *(me diga se quiser colocar um de verdade)*
-- LinkedIn, Portfólio ou Instagram: *(adicione aqui se quiser)*
+- Email: ericbotelho18@gmail.com*
+- LinkedIn:*Éric Botelho*
 
 ---
 
