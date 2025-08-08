@@ -25,7 +25,7 @@
 
 ### 📫 Como me encontrar:
 - Email: **ericbotelho18@gmail.com**  
-- LinkedIn: **Éric Botelho**
+- LinkedIn: **https://www.linkedin.com/in/%C3%A9ric-botelho-4055442b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 ---
 
