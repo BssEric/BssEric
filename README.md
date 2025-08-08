@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Éric Botelho
 
 🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.  
-🚀 Atualmente trabalhando em projetos como **"Dunk Space"**, um jogo de basquete em HTML, e **"PetVerso"**, um site de mimos e cuidados para pets.  
-🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces estilo Rockstar Games (como no site do GTA6).  
-📚 Sempre aprendendo e experimentando com **HTML, CSS, JavaScript, Bootstrap, React e GSAP**.  
+🚀 Atualmente trabalhando em projetos como **"Dunk Game"**, um jogo de basquete em HTML, e **"FitLife"**, um site para interessados em academia.  
+🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces modernas.  
+📚 Sempre aprendendo e experimentando com **HTML, CSS, JavaScript, Bootstrap e React**.  
 
 ---
 
@@ -17,20 +17,25 @@
 ---
 
 ### 🧪 Projetos em destaque:
-- 🎮 **Dunk Space** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
-- 🐾 **PetVerso** – Landing page sobre cuidados e cadastro de animais.
+- 🎮 **Dunk Game** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
+- 💪🏽 **FitLife** – Landing page sobre artigos de academia.
 - 💡 Vários testes com **scroll effects**, **offcanvas menus**, **hero sections animadas** e muito mais.
 
 ---
 
 ### 📫 Como me encontrar:
-- Email: seuemail@email.com *(me diga se quiser colocar um de verdade)*
-- LinkedIn, Portfólio ou Instagram: *(adicione aqui se quiser)*
+- Email: **ericbotelho18@gmail.com**  
+- LinkedIn: **Éric Botelho**
 
 ---
 
 ### 📊 Estatísticas do GitHub:
-![Éric's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBotelho&show_icons=true&theme=default)
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=BssEric&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BssEric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />  
+</div>  
+
+<img src="https://raw.githubusercontent.com/BssEric/BssEric/output/snake.svg" alt="Snake animation" />  
 
 ---
 
