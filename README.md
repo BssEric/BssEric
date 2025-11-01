@@ -24,10 +24,15 @@
 ---
 
 ### 📫 Como me encontrar:
-- Email: **ericbotelho18@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/%C3%A9ric-botelho-4055442b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+<div align="left">
+  <a href="mailto:ericbotelho18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
 ### 📊 Estatísticas do GitHub:
 <div align="center">  
