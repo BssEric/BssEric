@@ -20,7 +20,7 @@
 - 🎮 **Dunk Game** – Jogo de basquete com efeitos e interações criativas em HTML/JS.
 - 💪🏽 **FitLife** – Landing page sobre artigos de academia.
 - 🏀 **Hooper Zone** - Landing Page e E-comerce de artigos de basquete.
-- 🐕 **PetVerso** - Landing Pagar de uma clínica veterinária.
+- 🐕 **PetVerso** - Landing Page de uma clínica veterinária.
 - 💡 Vários testes com **scroll effects**, **offcanvas menus**, **hero sections animadas** e muito mais.
 
 ---
