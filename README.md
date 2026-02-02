@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=30&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+Éric+Botelho;Desenvolvedor+Front-end+em+formação;Criando+experiências+interativas;HTML+CSS+JavaScript+React" />
-
-</div>
+<<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=👋+Éric+Botelho;💻+Front-end+em+formação;🌐+Web+Development;🎨+UX+Design" />
 
 ---
 
