@@ -1,90 +1,56 @@
-<div align="center">
+Olha chat, como posso deixar meu readme animado e interativo, gostaria de colocar links para os meus projetos, me ajude:
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=👋+Éric+Botelho;💻+Front-end+em+formação;🌐+Web+Development;🎨+UX+Design" />
+👋 Olá! Eu sou o Éric Botelho
 
----
+🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.
+🚀 Atualmente trabalhando em projetos como "Dunk Game", um jogo de basquete em HTML, e "FitLife", um site para interessados em academia.
+🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces modernas.
+📚 Sempre aprendendo e experimentando com HTML, CSS, JavaScript, Bootstrap e React.
 
-## 👋 Sobre mim  
-
-🎮 Desenvolvedor apaixonado por tecnologia, design e interfaces modernas  
-🚀 Criador de projetos como **Dunk Game**, **FitLife**, **Hooper Zone** e **PetVerso**  
-🎨 Focado em animações, UX e experiências interativas  
-📚 Stack principal: **HTML, CSS, JavaScript, Bootstrap e React**
 
 ---
 
-## 🚀 Projetos em Destaque (clicáveis)
+🛠️ Tecnologias que uso no dia a dia:
 
-<div align="center">
 
-<a href="https://github.com/BssEric/Dunk-Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BssEric&repo=Dunk-Game&theme=dracula" />
-</a>
 
-<a href="https://github.com/BssEric/FitLife">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BssEric&repo=FitLife&theme=dracula" />
-</a>
 
-<a href="https://github.com/BssEric/Hooper-Zone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BssEric&repo=Hooper-Zone&theme=dracula" />
-</a>
 
-<a href="https://github.com/BssEric/PetVerso">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BssEric&repo=PetVerso&theme=dracula" />
-</a>
 
-</div>
+
 
 ---
 
-## 🛠️ Tecnologias
+🧪 Projetos em destaque:
 
-<div align="center">
+🎮 Dunk Game – Jogo de basquete com efeitos e interações criativas em HTML/JS.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github&theme=dark" />
+💪🏽 FitLife – Landing page sobre artigos de academia.
 
-</div>
+🏀 Hooper Zone - Landing Page e E-comerce de artigos de basquete.
 
----
+🐕 PetVerso - Landing Page de uma clínica veterinária.
 
-## 📊 Estatísticas GitHub
+💡 Vários testes com scroll effects, offcanvas menus, hero sections animadas e muito mais.
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BssEric&show_icons=true&theme=dracula" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BssEric&layout=compact&theme=dracula" height="160"/>
-
-</div>
 
 ---
 
-## 🐍 Contribuições animadas
+📫 Como me encontrar:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BssEric/BssEric/output/snake.svg" />
-</div>
+<div align="left">  
+  <a href="mailto:ericbotelho18@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />  
+  </a>    <a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />  
+  </a>  
+</div>  📊 Estatísticas do GitHub:
 
+<div align="center">    
+  <img src="https://github-readme-stats.vercel.app/api?username=BssEric&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BssEric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />    
+</div>    <img src="https://raw.githubusercontent.com/BssEric/BssEric/output/snake.svg" alt="Snake animation" />    
 ---
 
-## 📫 Onde me encontrar
-
-<div align="center">
-
-<a href="mailto:ericbotelho18@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ *Criar é transformar ideias em impacto.* ✨  
-
-</div>
+💬 “Criar é transformar ideias em impacto.”
