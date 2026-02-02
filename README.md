@@ -1,6 +1,10 @@
-Olha chat, como posso deixar meu readme animado e interativo, gostaria de colocar links para os meus projetos, me ajude:
-
 👋 Olá! Eu sou o Éric Botelho
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&color=F75C7E&lines=Front-end+em+formação;Web+Development;UX+Design" />
+
+</div>
 
 🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.
 🚀 Atualmente trabalhando em projetos como "Dunk Game", um jogo de basquete em HTML, e "FitLife", um site para interessados em academia.
