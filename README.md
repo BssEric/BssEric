@@ -1,6 +1,6 @@
 <div align="center">
 
-<<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=👋+Éric+Botelho;💻+Front-end+em+formação;🌐+Web+Development;🎨+UX+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=👋+Éric+Botelho;💻+Front-end+em+formação;🌐+Web+Development;🎨+UX+Design" />
 
 ---
 
