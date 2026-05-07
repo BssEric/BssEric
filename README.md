@@ -1,162 +1,40 @@
-<div align="center">
+👋 Olá! Eu sou o Éric Botelho
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Éric%20Botelho&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Frontend%20em%20formação&descAlignY=60&descColor=a8b2d8" width="100%" />
-
-</div>
-
----
-
-## 👋 Olá! Eu sou o Éric
-
-🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.  
-🚀 Construindo projetos que unem **código limpo** e **estética cuidadosa**.  
-🎨 Explorador de animações, efeitos visuais com **GSAP** e interfaces modernas.  
-📚 Sempre aprendendo — hoje e amanhã.
+🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.
+🚀 Atualmente trabalhando em projetos como "Dunk Game", um jogo de basquete em HTML, e "FitLife", um site para interessados em academia.
+🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces modernas.
+📚 Sempre aprendendo e experimentando com HTML, CSS, JavaScript, Bootstrap e React.
 
 ---
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-</div>
+🛠️ Tecnologias que uso no dia a dia:
 
 ---
 
-## 📊 Estatísticas do GitHub
+🧪 Projetos em destaque:
 
-<div align="center">
+🎮 Dunk Game – Jogo de basquete com efeitos e interações criativas em HTML/JS.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+💪🏽 FitLife – Landing page sobre artigos de academia.
 
-</div>
+🏀 Hooper Zone - Landing Page e E-comerce de artigos de basquete.
 
-<div align="center">
+🐕 PetVerso - Landing Page de uma clínica veterinária.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
+💡 Vários testes com scroll effects, offcanvas menus, hero sections animadas e muito mais.
 
 ---
 
-## 🧪 Projetos em Destaque
+📫 Como me encontrar:
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎮 Dunk Game</h3>
-      <p align="center">
-        Jogo de basquete com efeitos e interações criativas em HTML/JS. Física, animações e uma experiência imersiva direto no browser.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="LINK_DO_REPOSITÓRIO">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="LINK_DA_DEMO">
-          <img src="https://img.shields.io/badge/Demo-e94560?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💪 FitLife</h3>
-      <p align="center">
-        Landing page moderna para entusiastas de academia. Design focado em conversão com hero section animada e layout responsivo.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">
-        <a href="LINK_DO_REPOSITÓRIO">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="LINK_DA_DEMO">
-          <img src="https://img.shields.io/badge/Demo-e94560?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏀 Hooper Zone</h3>
-      <p align="center">
-        Landing page e e-commerce completo de artigos de basquete. Experiência de compra fluida com visual voltado ao universo do esporte.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">
-        <a href="LINK_DO_REPOSITÓRIO">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="LINK_DA_DEMO">
-          <img src="https://img.shields.io/badge/Demo-e94560?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐕 PetVerso</h3>
-      <p align="center">
-        Landing page de uma clínica veterinária com visual acolhedor, seções bem estruturadas e foco em transmitir confiança e cuidado.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="LINK_DO_REPOSITÓRIO">
-          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="LINK_DA_DEMO">
-          <img src="https://img.shields.io/badge/Demo-e94560?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">  
+  <a href="mailto:ericbotelho18@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />  
+  </a>    <a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">  
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />  
+  </a>  
+</div>  
+--
+-
 
----
-
-## 📫 Onde me encontrar
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericbotelho18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A9ricbotelhoo)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"Criar é transformar ideias em impacto."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=e94560&style=flat-square&label=Visitas+ao+perfil" />
-
-</div>
+💬 “Criar é transformar ideias em impacto.”
