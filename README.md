@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Éric Botelho👋</h1>
+<h1 align="center">Olá,sou Éric Botelho👋</h1>
 
 <p align="center">
   Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
