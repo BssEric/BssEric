@@ -38,6 +38,32 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
+## 🧪 Projetos em Destaque
+
+### ⚡ Volt | Feel The ENERGY
+Landing page moderna com foco em impacto visual e energia da marca.  
+Explora animações, tipografia forte e construção de identidade digital.
+
+🔧 Tecnologias: HTML, CSS, JavaScript, GSAP  
+
+---
+
+### 🏀 Jordan | Awwwards Concept
+Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
+
+🔧 Tecnologias: HTML, CSS, JavaScript, GSAP  
+
+---
+
+### 🎧 AURIX | Headset Experience
+Interface de produto com foco em apresentação visual, storytelling e interatividade.
+
+🔧 Tecnologias: HTML, CSS, JavaScript  
+
+---
+
+---
+
 ## ⚡ Habilidades Técnicas
 
 - Desenvolvimento de interfaces responsivas e modernas  
