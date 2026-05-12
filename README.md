@@ -18,13 +18,13 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ## 🧪 Projetos em Destaque
 
-<div style="border: 2px solid #58a6ff; padding: 20px; border-radius: 12px;">
-
 ### ⚡ Volt | Feel The ENERGY
+Landing page moderna com foco em impacto visual e energia da marca.  
+Explora animações, tipografia forte e construção de identidade digital.
 
-Landing page moderna com foco em impacto visual.
-
-</div>
+<a href="https://volt.vercel.app">
+    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 ---
 
