@@ -33,10 +33,18 @@ Explora animações, tipografia forte e construção de identidade digital.
 ### 🏀 Jordan | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.  
 
+<a href="https://volt.vercel.app">
+    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 ---
 
 ### 🎧 AURIX | Headset Experience
 Interface de produto com foco em apresentação visual, storytelling e interatividade.
+
+<a href="https://volt.vercel.app">
+    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 ---
 ## 🧠 Tech Stack
