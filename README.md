@@ -57,7 +57,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="mailto:ericbotelho18@gmail.com">
