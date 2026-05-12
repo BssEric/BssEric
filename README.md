@@ -57,6 +57,10 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
+##GitHub Stats
+
+---
+
 ## Contato
 
 <p align="left">
