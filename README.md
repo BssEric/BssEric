@@ -52,7 +52,7 @@ Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência i
 
 ---
 
-### 🎧 <a href="https://volt.vercel.app">Aurix<a/> | Headset Experience
+### 🎧 <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
 Interface de produto com foco em apresentação visual, storytelling e interatividade.  
 
 ---
