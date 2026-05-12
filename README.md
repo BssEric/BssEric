@@ -59,15 +59,6 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## 🧩 O que estou focando agora
-
-- Aprofundando React e componentização
-- Animações avançadas com GSAP
-- Boas práticas de código e arquitetura front-end
-- Construção de interfaces mais profissionais e escaláveis
-
----
-
 ## 📫 Contato
 
 <p align="left">
