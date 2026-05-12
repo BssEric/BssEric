@@ -19,8 +19,24 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 ## 🧪 Projetos em Destaque
 
 ### ⚡ Volt | Feel The ENERGY
-Landing page moderna com foco em impacto visual e energia da marca.  
-Explora animações, tipografia forte e construção de identidade digital.
+
+Landing page moderna com foco em impacto visual e animações.
+
+<p>
+  <a href="https://volt.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/seuuser/volt">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" />
+</p>
  
 
 ---
