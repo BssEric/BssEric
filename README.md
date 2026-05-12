@@ -20,7 +20,8 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ### Volt | Feel The ENERGY
 
-Landing page moderna com foco em impacto visual e animações.
+Landing page moderna com foco em impacto visual e energia da marca.  
+Explora animações, tipografia forte e construção de identidade digital.
 
 
   <a href="https://volt.vercel.app">
