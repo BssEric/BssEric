@@ -43,22 +43,17 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 ### ⚡ <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
 Explora animações, tipografia forte e construção de identidade digital.
-
-🔧 Tecnologias: HTML, CSS, JavaScript, GSAP  
+  
 
 ---
 
-### 🏀 Jordan | Awwwards Concept
+### 🏀 <a href="https://volt.vercel.app">Jordan<a/> | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
 
-🔧 Tecnologias: HTML, CSS, JavaScript, GSAP  
-
 ---
 
-### 🎧 AURIX | Headset Experience
-Interface de produto com foco em apresentação visual, storytelling e interatividade.
-
-🔧 Tecnologias: HTML, CSS, JavaScript  
+### 🎧 <a href="https://volt.vercel.app">Aurix<a/> | Headset Experience
+Interface de produto com foco em apresentação visual, storytelling e interatividade.  
 
 ---
 
