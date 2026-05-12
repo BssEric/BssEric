@@ -61,6 +61,10 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
+Certificados
+
+---
+
 ## Contato
 
 <p align="left">
