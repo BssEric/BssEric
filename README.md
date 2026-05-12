@@ -47,7 +47,7 @@ Explora animações, tipografia forte e construção de identidade digital.
 
 ---
 
-### 🏀 <a href="https://volt-feel-the-energy.vercel.app/">Jordan<a/> | Awwwards Concept
+### 🏀 <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
 
 ---
