@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
 
@@ -16,36 +16,24 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## 🧪 Projetos em Destaque
+##  Projetos em Destaque
 
-### ⚡ Volt | Feel The ENERGY
+###  Volt | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
 Explora animações, tipografia forte e construção de identidade digital.
 
-<a href="https://volt.vercel.app">
-    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
 ---
 
-### 🏀 Jordan | Awwwards Concept
+### Jordan | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.  
 
-<a href="https://volt.vercel.app">
-    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
 ---
 
-### 🎧 AURIX | Headset Experience
+### AURIX | Headset Experience
 Interface de produto com foco em apresentação visual, storytelling e interatividade.
 
-<a href="https://volt.vercel.app">
-    <img src="https://img.shields.io/badge/Acessar-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
 ---
-## 🧠 Tech Stack
+## Tech Stack
 
 ### 💻 Front-End
 <p>
