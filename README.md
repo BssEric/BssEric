@@ -23,50 +23,18 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🎨 UI / Estilo / Animação
+## 🎨 UI / Estilo / Animação
+
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" />
 </p>
 
-- GSAP (animações avançadas)
-- Layouts responsivos e modernos
-- Microinterações
-
----
-
-## ⚡ Habilidades Técnicas
-
-- Desenvolvimento de interfaces responsivas e modernas  
-- Estruturação de layouts profissionais  
-- Componentização com React  
-- Manipulação do DOM com JavaScript  
-- Criação de animações e efeitos visuais  
-- Organização e legibilidade de código  
-- Noções de UX/UI  
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 O que estou focando agora
-
-- Aprofundando React e componentização
-- Animações avançadas com GSAP
-- Boas práticas de código e arquitetura front-end
-- Construção de interfaces mais profissionais e escaláveis
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como desenvolvedor front-end, com foco em aprendizado contínuo e entrega de interfaces de qualidade.
+<p>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microinteractions-6C63FF?style=for-the-badge" />
+</p> 
 
 ---
 
