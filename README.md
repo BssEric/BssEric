@@ -62,8 +62,6 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
----
-
 ## ⚡ Habilidades Técnicas
 
 - Desenvolvimento de interfaces responsivas e modernas  
