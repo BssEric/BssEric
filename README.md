@@ -38,6 +38,17 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
+## ⚡ Habilidades Técnicas
+
+- Desenvolvimento de interfaces responsivas e modernas  
+- Estruturação de layouts profissionais  
+- Componentização com React  
+- Manipulação do DOM com JavaScript  
+- Criação de animações e efeitos visuais  
+- Organização e legibilidade de código  
+- Noções de UX/UI  
+
+---
 ## 📫 Contato
 
 <p align="left">
