@@ -1,40 +1,82 @@
-👋 Olá! Eu sou o Éric Botelho
+<h1 align="center">Éric Botelho</h1>
 
-🎮 Desenvolvedor em formação apaixonado por tecnologia, design e experiências interativas.
-🚀 Atualmente trabalhando em projetos como "Dunk Game", um jogo de basquete em HTML, e "FitLife", um site para interessados em academia.
-🎨 Curioso sobre animações, efeitos visuais com GSAP, e interfaces modernas.
-📚 Sempre aprendendo e experimentando com HTML, CSS, JavaScript, Bootstrap e React.
-
----
-
-🛠️ Tecnologias que uso no dia a dia:
+<p align="center">
+  Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
+</p>
 
 ---
 
-🧪 Projetos em destaque:
+## 🚀 Sobre mim
 
-🎮 Dunk Game – Jogo de basquete com efeitos e interações criativas em HTML/JS.
+Sou desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
 
-💪🏽 FitLife – Landing page sobre artigos de academia.
+Tenho interesse em desenvolvimento de interfaces de alto nível, animações avançadas e construção de produtos digitais bem estruturados.
 
-🏀 Hooper Zone - Landing Page e E-comerce de artigos de basquete.
-
-🐕 PetVerso - Landing Page de uma clínica veterinária.
-
-💡 Vários testes com scroll effects, offcanvas menus, hero sections animadas e muito mais.
+Busco constantemente evoluir minhas habilidades técnicas e transformar conhecimento em soluções práticas e bem executadas.
 
 ---
 
-📫 Como me encontrar:
+## 🧠 Tech Stack
 
-<div align="left">  
-  <a href="mailto:ericbotelho18@gmail.com" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />  
-  </a>    <a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">  
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />  
-  </a>  
-</div>  
---
--
+### 💻 Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-💬 “Criar é transformar ideias em impacto.”
+### 🎨 UI / Estilo / Animação
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+- GSAP (animações avançadas)
+- Layouts responsivos e modernos
+- Microinterações
+
+---
+
+## ⚡ Habilidades Técnicas
+
+- Desenvolvimento de interfaces responsivas e modernas  
+- Estruturação de layouts profissionais  
+- Componentização com React  
+- Manipulação do DOM com JavaScript  
+- Criação de animações e efeitos visuais  
+- Organização e legibilidade de código  
+- Noções de UX/UI  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BssEric&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BssEric&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 O que estou focando agora
+
+- Aprofundando React e componentização
+- Animações avançadas com GSAP
+- Boas práticas de código e arquitetura front-end
+- Construção de interfaces mais profissionais e escaláveis
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="mailto:ericbotelho18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%A9ricbotelhoo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  “Criar interfaces é transformar código em experiência.”
+</p>
