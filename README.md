@@ -35,12 +35,12 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 ---
 ## Tech Stack
 
-### 💻 Front-End
+### Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🎨 UI / Estilo / Animação
+### UI / Estilo / Animação
 <p>
   <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" />
@@ -55,7 +55,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## ⚡ Habilidades Técnicas
+## Habilidades Técnicas
 
 - Desenvolvimento de interfaces responsivas e modernas  
 - Estruturação de layouts profissionais  
@@ -67,7 +67,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BssEric&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -76,7 +76,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="mailto:ericbotelho18@gmail.com">
