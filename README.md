@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
 
@@ -16,14 +16,14 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 💻 Front-End
+### Front-End
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## 🎨 UI / Estilo / Animação
+## UI / Estilo / Animação
 
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" />
@@ -38,7 +38,7 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## 🧪 Projetos em Destaque
+## Projetos em Destaque
 
 ### ⚡ <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
