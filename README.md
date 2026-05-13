@@ -20,27 +20,6 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## Tech Stack
-
-### Front-End
-<p>
-  
-
-## UI / Estilo / Animação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="35"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microinteractions-6C63FF?style=for-the-badge" />
-</p> 
-
----
-
 ## Projetos em Destaque
 
 ### <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
