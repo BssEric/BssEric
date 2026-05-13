@@ -40,19 +40,19 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ## Projetos em Destaque
 
-### ⚡ <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
+### <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
 Explora animações, tipografia forte e construção de identidade digital.
   
 
 ---
 
-### 🏀 <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
+### <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
 
 ---
 
-### 🎧 <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
+### <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
 Interface de produto com foco em apresentação visual, storytelling e interatividade.  
 
 ---
