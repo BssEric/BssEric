@@ -4,8 +4,8 @@
   Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
 </p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="30"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="30"/>
 </p>
 
 ---
