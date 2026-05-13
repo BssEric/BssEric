@@ -63,7 +63,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ## Contato
 
-<p align="left">
+<p align="center">
   <a href="mailto:ericbotelho18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
