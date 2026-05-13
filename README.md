@@ -1,92 +1,99 @@
-<h1 align="center">Éric Botelho👋</h1>
+<h1 align="center">Éric Botelho 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
+  Front-End Developer focused on immersive interfaces, motion and high-end user experiences.
 </p>
 
 ---
 
-## Sobre mim
+## 🚀 About Me
 
-Sou desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
+Desenvolvedor front-end focado em criar interfaces que vão além do padrão comum da web.
 
-Tenho interesse em desenvolvimento de interfaces de alto nível, animações avançadas e construção de produtos digitais bem estruturados.
+Meu trabalho gira em torno de **experiências visuais imersivas**, combinando performance, animação e design para construir produtos digitais memoráveis.
 
-Busco constantemente evoluir minhas habilidades técnicas e transformar conhecimento em soluções práticas e bem executadas.
+Tenho interesse especial em:
+- Motion design aplicado à web  
+- Microinterações e feedback visual  
+- Interfaces inspiradas em experiências Awwwards  
 
----
-
-## Tech Stack
-
-### Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-## UI / Estilo / Animação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI/UX-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microinteractions-6C63FF?style=for-the-badge" />
-</p> 
+Atualmente desenvolvendo projetos práticos com foco em **impacto visual, fluidez e interação**.
 
 ---
 
-## Projetos em Destaque
+## 🧠 Tech Stack
 
-### ⚡ <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
-Landing page moderna com foco em impacto visual e energia da marca.  
-Explora animações, tipografia forte e construção de identidade digital.
-  
+**Core**  
+HTML • CSS • JavaScript • React  
 
----
+**UI / Motion**  
+GSAP • Tailwind • Bootstrap • Figma  
 
-### 🏀 <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
-Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
-
----
-
-### 🎧 <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
-Interface de produto com foco em apresentação visual, storytelling e interatividade.  
+**Focus Areas**  
+• Animações avançadas (GSAP, scroll-based)  
+• Microinterações  
+• Interfaces responsivas e fluidas  
+• Experiência do usuário (UX/UI)
 
 ---
 
-## GitHub Stats
+## ⚡ Featured Projects
 
+### ⚡ Volt — Feel The Energy  
+🔗 https://volt.vercel.app  
 
+Interface moderna com foco em impacto visual e identidade de marca.
 
-<h3 align="left">🔥   My Stats :</h3>
+→ Animações com GSAP  
+→ Scroll controlado e transições suaves  
+→ Tipografia forte e construção de atmosfera  
+→ Estrutura orientada à experiência  
 
-###
+---
+
+### 🏀 Jordan — Awwwards Concept  
+🔗 https://jordan-awwwards.vercel.app  
+
+Projeto inspirado em interfaces premiadas, com foco em imersão e storytelling.
+
+→ Experiência interativa baseada em scroll  
+→ Motion design aplicado à navegação  
+→ Layout não convencional  
+→ Foco total em estética e fluidez  
+
+---
+
+### 🎧 Aurix — Headset Experience  
+🔗 https://aurix-headset.vercel.app  
+
+Apresentação de produto com foco em narrativa visual e interação.
+
+→ Estrutura baseada em storytelling  
+→ Destaque para produto com transições  
+→ Interface limpa e responsiva  
+→ Experiência centrada no usuário  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BssEric &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=BssEric&theme=dark&hide_border=false" height="200"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/BssEric /BssEric /snake-output/snake.svg" alt="Snake animation" />
-
-###
 ---
 
-## Certificados
+## 📜 Certifications
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=860192&theme=dark" width="100" />
+FIAP — Front-End & UX/UI  
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=158904&theme=dark" width="100" />
-
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=631728&theme=dark" width="100" />
-
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=dark" width="100" />
+• Fundamentos de desenvolvimento web  
+• Design de interfaces  
+• Experiência do usuário  
 
 ---
 
-## Contato
+## 📫 Contact
 
 <p align="left">
   <a href="mailto:ericbotelho18@gmail.com">
@@ -100,5 +107,5 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 ---
 
 <p align="center">
-  “Criar interfaces é transformar código em experiência.”
+  “Interfaces are not just built — they are experienced.”
 </p>
