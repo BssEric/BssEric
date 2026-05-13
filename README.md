@@ -62,7 +62,14 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BssEric&theme=dark&hide_border=false" height="200"/>
+  <img src="https://raw.githubusercontent.com/BssEric/BssEric/stats-output/stats.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/BssEric/BssEric/languages-output/languages.svg" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BssEric&theme=dark&hide_border=true" height="180" />
 </div>
 
 ---
