@@ -4,8 +4,9 @@
   Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
 </p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35" algum="center"/>
 </p>
+
 ---
 
 ## Sobre mim
