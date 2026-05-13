@@ -22,7 +22,7 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ## 👨‍💻 Projetos em Destaque
 
-### ⚡ <a href="volt-feel-the-energy.vercel.app">Volt<a/> | Feel The ENERGY
+### ⚡ <a href="https://volt-feel-the-energy.vercel.app/">Volt<a/> | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
 Explora animações, tipografia forte e construção de identidade digital.
   
