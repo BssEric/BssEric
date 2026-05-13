@@ -4,6 +4,8 @@
   Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
 </p>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
+</p>
 ---
 
 ## Sobre mim
@@ -20,8 +22,7 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
-</p>
+  
 
 ## UI / Estilo / Animação
 
@@ -60,13 +61,6 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 ## GitHub Stats
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BssEric&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BssEric&layout=compact&theme=dark" height="180" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BssEric&theme=dark&hide_border=true" height="180" />
