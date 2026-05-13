@@ -71,11 +71,11 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=860192&theme=black" width="100" />
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=158904&theme=dark" width="100" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=158904&theme=blak" width="100" />
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=631728&theme=dark" width="100" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=631728&theme=blak" width="100" />
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=dark" width="100" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=blak" width="100" />
 
 ---
 
