@@ -47,6 +47,10 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
   <img src="https://streak-stats.demolab.com?user=BssEric&theme=dark&hide_border=true" height="180" />
 </div>
 
+<img src="https://raw.githubusercontent.com/BssEric /BssEric /snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 ## Certificados
