@@ -69,7 +69,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ## Certificados
 
-<img src="https://fiap-achievements.vercel.app/api/badge?badge=860192&theme=dark" width="100" />
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=860192&theme=black" width="100" />
 
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=158904&theme=dark" width="100" />
 
