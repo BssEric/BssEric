@@ -10,7 +10,7 @@
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
 Sou desenvolvedor front-end em formação com foco em criar interfaces modernas, responsivas e orientadas à experiência do usuário.
 
@@ -20,26 +20,26 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ---
 
-## Projetos em Destaque
+## 👨‍💻 Projetos em Destaque
 
-### <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
+### ⚡ <a href="https://volt.vercel.app">Volt<a/> | Feel The ENERGY
 Landing page moderna com foco em impacto visual e energia da marca.  
 Explora animações, tipografia forte e construção de identidade digital.
   
 
 ---
 
-### <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
+### 🏀 <a href="https://jordan-awwwards.vercel.app/">Jordan<a/> | Awwwards Concept
 Projeto inspirado em interfaces premiadas (Awwwards), com foco em experiência imersiva e animações avançadas.
 
 ---
 
-### <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
+### 🎧 <a href="https://aurix-headset.vercel.app/">Aurix<a/> | Headset Experience
 Interface de produto com foco em apresentação visual, storytelling e interatividade.  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ###
 
@@ -53,7 +53,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## Certificados
+## ⭐ Certificados
 <p align="center">
 <img src="https://fiap-achievements.vercel.app/api/badge?badge=860192&theme=black" width="100" />
 
@@ -66,7 +66,7 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 
 ---
 
-## Contato
+## 📪 Contato
 
 <p align="center">
   <a href="mailto:ericbotelho18@gmail.com">
