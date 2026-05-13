@@ -26,7 +26,7 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 ## UI / Estilo / Animação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="40"/>
 </p>
 
 <p>
