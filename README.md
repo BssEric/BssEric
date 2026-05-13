@@ -5,9 +5,6 @@
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react" height="35" align="center"/>
-</p>
-
-<p>
   <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="35"/>
 </p>
 
