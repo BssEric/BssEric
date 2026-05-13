@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react" height="30"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="30"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind" height="30"/>
 </p>
 
 ---
