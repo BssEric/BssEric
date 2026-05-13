@@ -62,8 +62,8 @@ Interface de produto com foco em apresentação visual, storytelling e interativ
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BssEric/BssEric/stats-output/stats.svg" height="180" />
-  <img src="https://raw.githubusercontent.com/BssEric/BssEric/languages-output/languages.svg" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BssEric&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BssEric&layout=compact&theme=dark" height="180" />
 </div>
 
 <br/>
