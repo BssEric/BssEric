@@ -7,6 +7,17 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react" height="35" align="center"/>
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,css" height="35"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-FF6F61?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microinteractions-6C63FF?style=for-the-badge" />
+</p>
+
 ---
 
 ## Sobre mim
