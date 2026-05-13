@@ -20,7 +20,7 @@ Busco constantemente evoluir minhas habilidades técnicas e transformar conhecim
 
 ### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/>
 </p>
 
 ## UI / Estilo / Animação
