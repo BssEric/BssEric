@@ -3,7 +3,7 @@
 <p align="center">
   Desenvolvedor Front-End • Interfaces modernas • Experiências interativas
 </p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react" height="35" align="center"/>
 </p>
 
